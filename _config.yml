@@ -20,11 +20,11 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 
 # Site Author
 author: "Matthew Coey"
-  name: "Matthew Coey" # Name of the student
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Add short bio here" # Bio of the student
-  location: "Add location here" # Location of the student
-  email: # Email of the student
+name: "Matthew Coey" # Name of the student
+avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+bio: "Add short bio here" # Bio of the student
+location: "Add location here" # Location of the student
+email: # Email of the student
 
   # Author links
   links:
