@@ -1,5 +1,5 @@
 ---
-title: "hello"
+title: "Projects"
 layout: single
 permalink: /projects/
 sidebar:
