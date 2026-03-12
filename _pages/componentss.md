@@ -1,5 +1,5 @@
 ---
-title: "Components"
+title: "Componentss"
 layout: default
 permalink: /components/
 gallery_gameplay:
