@@ -1,6 +1,6 @@
 ---
 title: "works"
 layout: default
-permalink /works/
+permalink: /works/
 ---
 my works
