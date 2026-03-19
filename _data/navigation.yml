@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "About me"
-    url: /about me/
   - title: "Projects"
     url: /projects/
     children:
