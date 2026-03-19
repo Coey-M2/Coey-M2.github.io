@@ -11,8 +11,6 @@ main:
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
-  - title: "artwork"
-  url: /artwork/
   - title: "Pages"
     url: /pages/
     children:
