@@ -1,5 +1,5 @@
 ---
-title: "Home page"
+title: "Home page eyreeryt"
 layout: splash
 permalink: /
 header:
