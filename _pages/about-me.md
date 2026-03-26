@@ -2,5 +2,4 @@
 title: "about me"
 layout: default
 permalink: /about-me/
----
-image_path: /assets/images/house_dream.png
+{% include figure image_path="/assets/images/house_dream.png %}
