@@ -4,4 +4,8 @@ layout: default
 permalink: /about-me/
 ---
 feature_row:
-  - image_path: /assets/images/house_dream.png
+image_path: /assets/images/house_dream.png
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
