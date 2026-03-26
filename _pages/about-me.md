@@ -3,9 +3,6 @@ title: "about me"
 layout: default
 permalink: /about-me/
 ---
-feature_row:
+
 image_path: /assets/images/house_dream.png
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
+{% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
