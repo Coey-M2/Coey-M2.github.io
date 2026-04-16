@@ -15,7 +15,7 @@ gallery_gameplay:
     title: "Challenge"
     caption: "Challenge"
   - url:/assets/images/house_dream.png
-    image_path:/assets/images/house_dream.png
+    image_path: /assets/images/house_dream.png
     alt: "Gameplay 3"
     title: "Power-ups"
     caption: "Power-ups"
