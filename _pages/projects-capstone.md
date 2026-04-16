@@ -14,7 +14,7 @@ gallery_gameplay:
     alt: "Gameplay 2"
     title: "Challenge"
     caption: "Challenge"
-  - url:/assets/images/house_dream.png
+  - url: /assets/images/house_dream.png
     image_path: /assets/images/house_dream.png
     alt: "Gameplay 3"
     title: "Power-ups"
@@ -25,11 +25,11 @@ gallery_gameplay:
     title: "Boss arena"
     caption: "Boss arena"
   - url: /assets/images/house_dream.png
-    image_path:/assets/images/house_dream.png
+    image_path: /assets/images/house_dream.png
     alt: "Gameplay 5"
     title: "UI feedback"
     caption: "UI feedback"
-  - url:/assets/images/house_dream.png
+  - url: /assets/images/house_dream.png
     image_path: /assets/images/house_dream.png
     alt: "Gameplay 6"
     title: "Final tweak"
