@@ -10,7 +10,7 @@ sidebar:
 
 Welcome to the projects page. Below is a list of games and other projects i have done.
 
-Below i will have two videos to two diffrent game projects i have deigned, while there is other pages if you want to learn more about said projects.
+Below i will have two videos too two diffrent game projects i have designed and developed, while there is other pages if you want to learn more about said projects.
 
 My first 3D greyboxing showcase
 {% include video id="cCggGn3NraA" provider="youtube" %}
