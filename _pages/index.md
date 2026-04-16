@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/house_dream.png
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "[https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview](https://drive.google.com/file/d/11C2aoYulrqvwsTtjHroPBPl9XvqUr834/view?usp=sharing)"
       target: "_blank"
 
 
