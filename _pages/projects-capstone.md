@@ -3,7 +3,7 @@ title: "Capstone"
 layout: default
 permalink: /projects/capstone/
 
-feature_row:
+feature row:
 - {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 - gallery_gameplay:
   - url: /assets/images/placeholder.png
