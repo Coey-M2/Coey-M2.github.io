@@ -2,10 +2,10 @@
 title: "Capstone"
 layout: default
 permalink: /projects/capstone/
+
 feature_row:
 - {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 - gallery_gameplay:
-  # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 1"
