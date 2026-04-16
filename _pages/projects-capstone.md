@@ -2,10 +2,8 @@
 title: "Capstone"
 layout: default
 permalink: /projects/capstone/
-
-feature row:
-- {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
-- gallery_gameplay:
+gallery_gameplay:
+  # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 1"
@@ -36,7 +34,6 @@ feature row:
     alt: "Gameplay 6"
     title: "Final tweak"
     caption: "Final tweak"
-
 sidebar:
   title: "Projects"
   nav:
