@@ -16,14 +16,14 @@ excerpt: "This is my portfolio website dedicated to showing of my works and achi
 intro: 
   - excerpt: 'below is some images of work i have done during my time as a game design and devlopment student in Ulster'
 feature_row:
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/Juggling_jester_sprite%20(2)1.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Artwork of juggling jester sprite"
+    excerpt: "This is a sample piece of my artwork on sprites, i had created these for a group game. matching the humorous goofy tone we were looking for"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that goes here with **Markdown** formatting"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
