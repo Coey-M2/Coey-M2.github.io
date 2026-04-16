@@ -1,6 +1,6 @@
 ---
 title: "Capstone"
-layout: single
+layout: default
 permalink: /projects/capstone/
 feature_row:
 - {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
