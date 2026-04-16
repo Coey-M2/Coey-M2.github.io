@@ -2,11 +2,6 @@
 title: "Capstone"
 layout: single
 permalink: /projects/capstone/
-sidebar:
-  title: "Projects"
-  nav:
-    - projects
----
 feature_row:
 - {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 - gallery_gameplay:
@@ -42,6 +37,11 @@ feature_row:
     title: "Final tweak"
     caption: "Final tweak"
 
+sidebar:
+  title: "Projects"
+  nav:
+    - projects
+---
 
 This page is another project page that is nested within Projects.
 
