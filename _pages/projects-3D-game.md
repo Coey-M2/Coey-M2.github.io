@@ -7,7 +7,8 @@ sidebar:
   nav:
     - projects
 
-    {% include gallery id="gallery_gameart" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 1"
@@ -45,4 +46,5 @@ sidebar:
 
 ---
 This is a project page that is dedicated towards my 3D greyboxing game, this was my second time using unity for a game project. The main purpose of this was to test the creation of a 3D map, the testing and learning of various tools that can be found inside of unitys software. Below  i will show several diffrent things i have learned and managed to create during the creation of this 3D grey boxing.
+
 
