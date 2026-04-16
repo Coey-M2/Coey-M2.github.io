@@ -8,11 +8,11 @@ sidebar:
     - projects
 ---
 
-Welcome to the projects page. This is where you can list your game projects.
+Welcome to the projects page. Below is a list of games and other projects i have done.
 
-You can use this page to show a reel of all projects and then have a separate page for each project.
+Below i will have two videos to two diffrent game projects i have deigned, while there is other pages if you want to learn more about said projects.
 
-title: "My first 3D greyboxing showcase"
+My first 3D greyboxing showcase
 {% include video id="cCggGn3NraA" provider="youtube" %}
 
 
