@@ -12,9 +12,9 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "This is my portfolio website dedicated to showing of my works and achievements"
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'below is some images of work i have done during my time as a game design and devlopment student in Ulster'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
