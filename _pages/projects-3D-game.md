@@ -19,7 +19,23 @@ gallery_gameplay:
     alt: "Cutting objects to form diffrent shapes"
     title: "Cutting objects to form diffrent shapes"
     caption: "Cutting objects to form diffrent shapes"
-    
+
+feature_row:
+  - image_path: /assets/images/Juggling_jester_sprite%20(2)1.png
+    alt: "placeholder image 1"
+    title: "Artwork of juggling jester sprite"
+    excerpt: "This is a sample piece of my artwork on sprites, i had created these for a group game. matching the humorous goofy tone we were looking for"
+  - image_path: /assets/images/placeholder.png
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/placeholder.png
+    alt: "placeholder image 4"
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 sidebar:
   title: "Projects"
   nav:
@@ -33,4 +49,8 @@ These three images help provide an idea for the tools and new skills i have earn
 
 ###### Decal paintings
 When i created this grey boxing game i had the idea of a hotel in a forest that would match a liminal feel. While i dont think i achieved that liminal feel i still wanted to represent the idea, i created paintings on the walls of the hotel to fill in the empty space and give the hotel the liminal space i wanted in my original idea.
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
 
