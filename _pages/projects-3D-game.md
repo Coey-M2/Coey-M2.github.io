@@ -23,8 +23,8 @@ gallery_gameplay:
 feature_row:
   - image_path: /assets/images/Screenshot%202026-04-30%20002738.png
     alt: "placeholder image 1"
-    title: "This is visual evidence of the paintings in the hotel"
-    excerpt: "This is a sample piece of my artwork on sprites, i had created these for a group game. matching the humorous goofy tone we were looking for"
+    title: "Hotel paintings"
+    excerpt: "This is visual evidence of the paintings in the hotel, i used these to fill up space and to test my ability to texture"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
