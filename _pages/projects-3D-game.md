@@ -28,10 +28,6 @@ feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 4"
     title: "Placeholder 3"
@@ -52,5 +48,5 @@ When i created this grey boxing game i had the idea of a hotel in a forest that 
 
 {% include feature_row id="intro" type="center" %}
 
-
+{% include feature_row %}
 
