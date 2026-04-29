@@ -16,24 +16,13 @@ gallery_gameplay:
     caption: "Merging Objects together"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
+    alt: "Cutting objects to form diffrent shapes"
+    title: "Cutting objects to form diffrent shapes"
+    caption: "Cutting objects to form diffrent shapes"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Gameplay 4"
-    title: "Boss arena"
-    caption: "Boss arena"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 5"
-    title: "UI feedback"
-    caption: "UI feedback"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 6"
-    title: "Final tweak"
-    caption: "Final tweak"
+    
+   
 sidebar:
   title: "Projects"
   nav:
