@@ -8,7 +8,7 @@ gallery_gameplay:
     image_path: /assets/images/placeholder.png
     alt: "Decal paintings"
     title: "Decal paintings"
-    caption: "Core loop"
+    caption: "Decal paintings"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Merging Objects together"
