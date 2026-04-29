@@ -52,5 +52,5 @@ When i created this grey boxing game i had the idea of a hotel in a forest that 
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+
 
