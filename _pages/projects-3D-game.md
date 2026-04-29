@@ -6,14 +6,14 @@ permalink: /projects/3D-game/
 gallery_gameplay:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
+    alt: "Decal paintings"
+    title: "Decal paintings"
     caption: "Core loop"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
+    alt: "Merging Objects together"
+    title: "Merging Objects together"
+    caption: "Merging Objects together"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 3"
