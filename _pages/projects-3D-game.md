@@ -21,9 +21,9 @@ gallery_gameplay:
     caption: "Cutting objects to form diffrent shapes"
 
 feature_row:
-  - image_path: /assets/images/Juggling_jester_sprite%20(2)1.png
+  - image_path: /assets/images/Screenshot%202026-04-30%20002738.png
     alt: "placeholder image 1"
-    title: "Artwork of juggling jester sprite"
+    title: "This is visual evidence of the paintings in the hotel"
     excerpt: "This is a sample piece of my artwork on sprites, i had created these for a group game. matching the humorous goofy tone we were looking for"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
