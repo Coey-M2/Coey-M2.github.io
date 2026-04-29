@@ -32,4 +32,5 @@ This is a project page that is dedicated towards my 3D greyboxing game, this was
 These three images help provide an idea for the tools and new skills i have earned during my first semsester of my year at Ulster univeristy, this was my first time using unity ever and i wanted to try something simple to understand the basics and tools that unity provides for their 3D game scenes 
 
 ###### Decal paintings
+When i created this grey boxing game i had the idea of a hotel in a forest that would match a liminal feel. While i dont think i achieved that liminal feel i still wanted to represent the idea, i created paintings on the walls of the hotel to fill in the empty space and give the hotel the liminal space i wanted in my original idea.
 
