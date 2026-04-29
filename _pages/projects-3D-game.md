@@ -19,10 +19,7 @@ gallery_gameplay:
     alt: "Cutting objects to form diffrent shapes"
     title: "Cutting objects to form diffrent shapes"
     caption: "Cutting objects to form diffrent shapes"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
     
-   
 sidebar:
   title: "Projects"
   nav:
@@ -32,4 +29,7 @@ This is a project page that is dedicated towards my 3D greyboxing game, this was
 
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
+These three images help provide an idea for the tools and new skills i have earned during my first semsester of my year at Ulster univeristy, this was my first time using unity ever and i wanted to try something simple to understand the basics and tools that unity provides for their 3D game scenes 
+
+###### Decal paintings
 
