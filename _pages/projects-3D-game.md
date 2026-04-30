@@ -51,6 +51,12 @@ gallery_merge:
     alt: "Receptionist"
     title: "Receptionist"
     caption: "Receptionists"
+ - url: /assets/images/placeholder.png
+    image_path: /assets/images/placeholder.png
+    alt: "Hotel"
+    title: "Hotel"
+    caption: "Hotel"
+   
 
 
 sidebar:
@@ -73,7 +79,7 @@ When i created this grey boxing game i had the idea of a hotel in a forest that 
 
 ###### Merging objects together 
 
-{% include gallery id="gallery_merge" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_merge" layout="fifth" thumb_height="180px" %}
 
 
 
