@@ -1,4 +1,4 @@
----
+--- 
 title: "Home page"
 layout: splash
 permalink: /
@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 excerpt: "This is my portfolio website dedicated to showing of my works and achievements"
-  - intro: 
+intro: 
   - excerpt: 'below is some images of work i have done during my time as a game design and devlopment student in Ulster'
   feature_row:
   - image_path: /assets/images/candle_sprite.png
