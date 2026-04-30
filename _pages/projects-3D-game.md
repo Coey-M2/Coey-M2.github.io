@@ -5,7 +5,7 @@ permalink: /projects/3D-game/
 
 gallery_gameplay:
   - url: /assets/images/Screenshot%202026-04-30%20021158.png
-    image_path: /assets/Screenshot%202026-04-30%20021158.png
+    image_path: /assets/images/Screenshot%202026-04-30%20021158.png
     alt: "Decal paintings"
     title: "Decal paintings"
     caption: "Decal paintings"
