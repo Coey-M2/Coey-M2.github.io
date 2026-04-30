@@ -34,7 +34,7 @@ feature_row:
     title: "Using shapes"
     excerpt: "I used shapes to build up a flat surface in order to act as a frame for the next shape, which would have the image textured onto it. Making it so the image wouldnt just look out of the ordinary and more like an actual painting"
 
-    feature_row_2:
+    feature_row:
   - image_path: /assets/images/Screenshot%202026-04-30%20002738.png
     alt: "Hotel paintings"
     title: "Hotel paintings"
@@ -67,7 +67,7 @@ When i created this grey boxing game i had the idea of a hotel in a forest that 
 
 ###### Merging objects together 
 
-{% include feature_row_2 id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row_2 %}
+{% include feature_row %}
 
