@@ -23,7 +23,6 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting"
-    url: "#test-link"
   - image_path: /assets/images/Screenshot%202026-04-30%20100524.png
     alt: "2D game level design"
     title: "2D game level design""
