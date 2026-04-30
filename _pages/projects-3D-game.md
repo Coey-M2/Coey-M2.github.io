@@ -38,19 +38,24 @@ feature_row:
 gallery_merge:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Decal paintings"
-    title: "Decal paintings"
-    caption: "Decal paintings"
+    alt: "Wooden boards"
+    title: "Wooden boards"
+    caption: "Wooden boards"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Merging Objects together"
-    title: "Merging Objects together"
-    caption: "Merging Objects together"
+    alt: "Hotel"
+    title: "Hotel"
+    caption: "Hotel"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Cutting objects to form diffrent shapes"
-    title: "Cutting objects to form diffrent shapes"
-    caption: "Cutting objects to form diffrent shapes"
+    alt: "Abandoned houses"
+    title: "Abandoned houses"
+    caption: "Abandoned houses"
+    - url: /assets/images/placeholder.png
+    image_path: /assets/images/placeholder.png
+    alt: "Receptionist"
+    title: "Receptionist"
+    caption: "Receptionists"
 
 
 sidebar:
