@@ -4,18 +4,18 @@ layout: single
 permalink: /projects/3D-game/
 
 gallery_gameplay:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/Screenshot%202026-04-30%20021158.png
+    image_path: /assets/Screenshot%202026-04-30%20021158.png
     alt: "Decal paintings"
     title: "Decal paintings"
     caption: "Decal paintings"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/Screenshot%202026-04-30%20015745.png
+    image_path: /assets/images/Screenshot%202026-04-30%20015745.png
     alt: "Merging Objects together"
     title: "Merging Objects together"
     caption: "Merging Objects together"
-  - url: /assets/images/Screenshot%202026-04-30%20015745.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/Screenshot%202026-04-30%20021325.png
+    image_path: /assets/images/Screenshot%202026-04-30%20021325.png
     alt: "Cutting objects to form diffrent shapes"
     title: "Cutting objects to form diffrent shapes"
     caption: "Cutting objects to form diffrent shapes"
