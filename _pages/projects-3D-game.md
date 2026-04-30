@@ -33,6 +33,20 @@ feature_row:
     alt: "Using shapes"
     title: "Using shapes"
     excerpt: "I used shapes to build up a flat surface in order to act as a frame for the next shape, which would have the image textured onto it. Making it so the image wouldnt just look out of the ordinary and more like an actual painting"
+
+    feature_row_2:
+  - image_path: /assets/images/Screenshot%202026-04-30%20002738.png
+    alt: "Hotel paintings"
+    title: "Hotel paintings"
+    excerpt: "This is visual evidence of the paintings in the hotel, i used these to fill up space and to test my ability to texture"
+  - image_path: /assets/images/Screenshot%202026-04-30%20004224.png
+    alt: "Various sizes"
+    title: "Various sizes"
+    excerpt: "This is showing how i used differnt sizes of shapes for each painting but made sure not to stretch or compress the image"
+  - image_path: /assets/images/Screenshot%202026-04-30%20005507.png
+    alt: "Using shapes"
+    title: "Using shapes"
+    excerpt: "I used shapes to build up a flat surface in order to act as a frame for the next shape, which would have the image textured onto it. Making it so the image wouldnt just look out of the ordinary and more like an actual painting"
 sidebar:
   title: "Projects"
   nav:
@@ -50,4 +64,10 @@ When i created this grey boxing game i had the idea of a hotel in a forest that 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+###### Merging objects together 
+
+{% include feature_row_2 id="intro" type="center" %}
+
+{% include feature_row_2 %}
 
