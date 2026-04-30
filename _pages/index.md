@@ -22,9 +22,6 @@ intro:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
    - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -33,9 +30,6 @@ intro:
     alt: "2D game level design"
     title: "2D game level design""
     excerpt: "This is my first game i created, trying my hand at a generic platformer"
-    url: "/projects/2D-game/"
-    btn_label: "read more"
-    btn_class: "btn--primary"
    - image_path: /assets/images/placeholder.png
     alt: "placeholder image 4"
     title: "Placeholder 3"
