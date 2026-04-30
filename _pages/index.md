@@ -16,15 +16,15 @@ excerpt: "This is my portfolio website dedicated to showing of my works and achi
 intro:
   - excerpt: "Below is some images of work I have done during my time as a game design and development student in Ulster"
   - feature_row:
-      - image_path: /assets/images/candle_sprite.png
+      - image_path: /assets/images/Coin%20bag%20pick%20up%20sprite.png
         alt: "placeholder image 1"
         title: "Artwork of a pick up sprite"
         excerpt: "This is a sample piece of my artwork on sprites. This was used as an upgrade pick up for Kackle Kastle"
-      - image_path: /assets/images/placeholder.png
+      - image_path: /assets/images/Armour_sprite.png
         alt: "placeholder image 2"
         title: "Placeholder 2"
         excerpt: "This is some sample content that goes here with **Markdown** formatting"
-      - image_path: /assets/images/placeholder.png
+      - image_path: /assets/images/candle_sprite.png
         alt: "placeholder image 3"
         title: "Placeholder 2"
         excerpt: "This is some sample content that goes here with **Markdown** formatting"
