@@ -28,8 +28,8 @@ main:
 projects:
   - title: "3D-game"
     url: /projects/3D-game/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "2D-game"
+    url: /projects/2D-game/
 
 # Sidebar menu for the Pages page
 pages:
