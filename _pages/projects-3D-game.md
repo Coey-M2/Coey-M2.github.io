@@ -79,6 +79,6 @@ During this grey boxing session i had to merge togther diffrent game objects in 
 ###### Cutting shapes to create diffrent objects
 For the snipping tool i had used it to create windows in the hotel that bring light into the building allowing the player to see and reflect nicely upon the walls. i had to snip out the inside wall to allow the light to pass inside, however i did not cut the wall on the outside to block vision into the building. An asthetic decision to make the building more mysterious
 
-{% include figure image_path="/assets/images/Screenshot%202026-04-30%20021325.png" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include figure image_path="/assets/images/Screenshot%202026-04-30%20021325.png" alt="Game Jam screenshot" %}
 
 
