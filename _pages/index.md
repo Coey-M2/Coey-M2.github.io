@@ -12,14 +12,14 @@ header:
       target: "_blank"
 
 excerpt: "This is my portfolio website dedicated to showing of my works and achievements"
-intro: 
+  - intro: 
   - excerpt: 'below is some images of work i have done during my time as a game design and devlopment student in Ulster'
   feature_row:
   - image_path: /assets/images/candle_sprite.png
     alt: "placeholder image 1"
     title: "Artwork of a pick up sprite"
     excerpt: "This is a sample piece of my artwork on sprites. This was used as a upgrade pick up for Kackle Kastle"
-    - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting"
