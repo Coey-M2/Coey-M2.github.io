@@ -1,7 +1,7 @@
 ---
-title: "Capstone"
+title: "2D-game"
 layout: default
-permalink: /projects/capstone/
+permalink: /projects/2D-game/
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/house_dream.png
