@@ -19,8 +19,8 @@ gallery_gameplay:
     alt: "Cutting objects to form diffrent shapes"
     title: "Cutting objects to form diffrent shapes"
     caption: "Cutting objects to form diffrent shapes"
-
-     gallery_merge:
+    
+gallery_merge:
   - url: /assets/images/Screenshot%202026-04-30%20015226.png
     image_path: /assets/images/Screenshot%202026-04-30%20015226.png
     alt: "Wooden boards"
@@ -36,7 +36,6 @@ gallery_gameplay:
     alt: "Abandoned houses"
     title: "Abandoned housess"
     caption: "Abandoned houses"
-
     
 feature_row:
   - image_path: /assets/images/Screenshot%202026-04-30%20002738.png
