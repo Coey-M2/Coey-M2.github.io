@@ -26,8 +26,8 @@ gallery_merge:
     alt: "Wooden boards"
     title: "Wooden boards"
     caption: "Wooden boards"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/Screenshot%202026-04-30%20095508.png
+    image_path: /assets/images/Screenshot%202026-04-30%20095508.png
     alt: "Hotel"
     title: "Hotel"
     caption: "Hotel"
