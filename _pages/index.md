@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/candle_sprite.png
     alt: "placeholder image 1"
     title: "Artwork of a pick up sprite"
-    excerpt: "This is a sample piece of my artwork on sprites."
+    
   - image_path: /assets/images/Screenshot%202026-04-30%20100524.png
     alt: "2D game level design"
     title: "2D game level design""
