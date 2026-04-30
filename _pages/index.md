@@ -1,7 +1,6 @@
 --- 
-
 title: "Home page"
-layout: splash
+layout: single
 permalink: /
 header:
   overlay_color: "#000"
