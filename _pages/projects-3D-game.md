@@ -35,7 +35,7 @@ feature_row:
     title: "Using shapes"
     excerpt: "I used shapes to build up a flat surface in order to act as a frame for the next shape, which would have the image textured onto it. Making it so the image wouldnt just look out of the ordinary and more like an actual painting"
 
-gallery_merge:
+    gallery_merge:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Wooden boards"
@@ -43,20 +43,15 @@ gallery_merge:
     caption: "Wooden boards"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Abandoned houses"
-    title: "Abandoned houses"
-    caption: "Abandoned houses"
-    - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Receptionist"
-    title: "Receptionist"
-    caption: "Receptionists"
- - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
     alt: "Hotel"
     title: "Hotel"
     caption: "Hotel"
-   
+  - url: /assets/images/placeholder.png
+    image_path: /assets/images/placeholder.png
+    alt: "Abandoned houses"
+    title: "Abandoned housess"
+    caption: "Abandoned houses"
+
 
 
 sidebar:
