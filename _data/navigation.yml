@@ -7,7 +7,7 @@ main:
     children:
       - title: "3D game"
         url: /projects/3D-game/
-      - title: "2D-game"
+      - title: "2D game"
         url: /projects/2D-game/
   - title: "Pages"
     url: /pages/
