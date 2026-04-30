@@ -14,7 +14,7 @@ gallery_gameplay:
     alt: "Merging Objects together"
     title: "Merging Objects together"
     caption: "Merging Objects together"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/Screenshot%202026-04-30%20015745.png
     image_path: /assets/images/placeholder.png
     alt: "Cutting objects to form diffrent shapes"
     title: "Cutting objects to form diffrent shapes"
@@ -36,8 +36,8 @@ feature_row:
     excerpt: "I used shapes to build up a flat surface in order to act as a frame for the next shape, which would have the image textured onto it. Making it so the image wouldnt just look out of the ordinary and more like an actual painting"
 
     gallery_merge:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/Screenshot%202026-04-30%20015226.png
+    image_path: /assets/images/Screenshot%202026-04-30%20015226.png
     alt: "Wooden boards"
     title: "Wooden boards"
     caption: "Wooden boards"
@@ -46,8 +46,8 @@ feature_row:
     alt: "Hotel"
     title: "Hotel"
     caption: "Hotel"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/Screenshot%202026-04-30%20015332.png
+    image_path: /assets/images/Screenshot%202026-04-30%20015332.png
     alt: "Abandoned houses"
     title: "Abandoned housess"
     caption: "Abandoned houses"
@@ -74,7 +74,7 @@ When i created this grey boxing game i had the idea of a hotel in a forest that 
 
 ###### Merging objects together 
 
-{% include gallery id="gallery_merge" layout="fifth" thumb_height="180px" %}
+{% include gallery id="gallery_merge" layout="third" thumb_height="180px" %}
 
 
 
