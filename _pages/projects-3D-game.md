@@ -43,11 +43,6 @@ gallery_merge:
     caption: "Wooden boards"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
-    alt: "Hotel"
-    title: "Hotel"
-    caption: "Hotel"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
     alt: "Abandoned houses"
     title: "Abandoned houses"
     caption: "Abandoned houses"
