@@ -1,5 +1,5 @@
 ---
-title: "2D-game"
+title: "2D game"
 layout: single
 permalink: /projects/2D-game/
 sidebar:
