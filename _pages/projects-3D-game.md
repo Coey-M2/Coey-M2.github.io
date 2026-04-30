@@ -20,7 +20,22 @@ gallery_gameplay:
     title: "Cutting objects to form diffrent shapes"
     caption: "Cutting objects to form diffrent shapes"
 
-    gallery_merge:
+    
+feature_row:
+  - image_path: /assets/images/Screenshot%202026-04-30%20002738.png
+    alt: "Hotel paintings"
+    title: "Hotel paintings"
+    excerpt: "This is visual evidence of the paintings in the hotel, i used these to fill up space and to test my ability to texture"
+  - image_path: /assets/images/Screenshot%202026-04-30%20004224.png
+    alt: "Various sizes"
+    title: "Various sizes"
+    excerpt: "This is showing how i used differnt sizes of shapes for each painting but made sure not to stretch or compress the image"
+  - image_path: /assets/images/Screenshot%202026-04-30%20005507.png
+    alt: "Using shapes"
+    title: "Using shapes"
+    excerpt: "I used shapes to build up a flat surface in order to act as a frame for the next shape, which would have the image textured onto it. Making it so the image wouldnt just look out of the ordinary and more like an actual painting"
+
+gallery_merge:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Decal paintings"
@@ -36,20 +51,6 @@ gallery_gameplay:
     alt: "Cutting objects to form diffrent shapes"
     title: "Cutting objects to form diffrent shapes"
     caption: "Cutting objects to form diffrent shapes"
-
-feature_row:
-  - image_path: /assets/images/Screenshot%202026-04-30%20002738.png
-    alt: "Hotel paintings"
-    title: "Hotel paintings"
-    excerpt: "This is visual evidence of the paintings in the hotel, i used these to fill up space and to test my ability to texture"
-  - image_path: /assets/images/Screenshot%202026-04-30%20004224.png
-    alt: "Various sizes"
-    title: "Various sizes"
-    excerpt: "This is showing how i used differnt sizes of shapes for each painting but made sure not to stretch or compress the image"
-  - image_path: /assets/images/Screenshot%202026-04-30%20005507.png
-    alt: "Using shapes"
-    title: "Using shapes"
-    excerpt: "I used shapes to build up a flat surface in order to act as a frame for the next shape, which would have the image textured onto it. Making it so the image wouldnt just look out of the ordinary and more like an actual painting"
 
 
 sidebar:
