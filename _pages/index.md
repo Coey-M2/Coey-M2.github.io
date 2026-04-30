@@ -14,7 +14,7 @@ header:
 excerpt: "This is my portfolio website dedicated to showing of my works and achievements"
 intro: 
   - excerpt: 'below is some images of work i have done during my time as a game design and devlopment student in Ulster'
-feature_row:
+  - feature_row:
   - image_path: /assets/images/candle_sprite.png
     alt: "placeholder image 1"
     title: "Artwork of a pick up sprite"
