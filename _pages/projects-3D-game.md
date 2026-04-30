@@ -73,6 +73,7 @@ When i created this grey boxing game i had the idea of a hotel in a forest that 
 {% include feature_row %}
 
 ###### Merging objects together 
+During this grey boxing session i had to merge togther diffrent game objects in order to create specific objects and or buildings, this is something new i learned as it was a new feature i had to get used
 
 {% include gallery id="gallery_merge" layout="third" thumb_height="180px" %}
 
