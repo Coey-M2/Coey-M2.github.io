@@ -11,7 +11,6 @@ header:
       url: "https://drive.google.com/file/d/11C2aoYulrqvwsTtjHroPBPl9XvqUr834/view?usp=sharing"
       target: "_blank"
 
-
 excerpt: "This is my portfolio website dedicated to showing of my works and achievements"
 intro: 
   - excerpt: 'below is some images of work i have done during my time as a game design and devlopment student in Ulster'
