@@ -38,21 +38,21 @@ intro:
         excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
         feature_row:
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/Coin%20bag%20pick%20up%20sprite.png
+    alt: "Coin bag"
+    title: "Coin bag"
+    excerpt: "This is artwork example that i have done during my first year"
+  - image_path: /assets/images/Armour_sprite.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is artwork example that i have done during my first year"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/candle_sprite.png
     alt: "placeholder image 4"
     title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is artwork example that i have done during my first year"
 ---
 
 {% include feature_row id="intro" type="center" %}
